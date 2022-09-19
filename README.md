@@ -10,7 +10,7 @@ homca is written in Sage with Python and comes packed as a Jupyter Notebook (hen
 2. [SageMath](https://www.sagemath.org/) (v.9.2.0 or higher);
 3. [Jupyter (Notebook)](https://jupyter.org/install).
 
-To run homca, simply open a terminal and type "jupyter notebook" to start Jupyter Notebook and open the file "homca.ipynb". You should now see the input cell with the source code. Below the big "Setup"-Box, specify the path to your khoca output file and directly below the name of the file (if you already have one). This completes installation.
+To run homca, simply open a terminal and type "jupyter notebook" to start Jupyter Notebook and open the file "homca.ipynb". You should now see the input cell with the source code. Below the big "Setup"-box, specify the path to your khoca output file and directly below the name of the file (if you already have one). This completes installation.
 
 # How to use
 
@@ -39,4 +39,4 @@ homca tries to simplify the Z[G]-complex as much as possible by performing eleme
 1. Gaussian Elimination.
 2. Option for printing direct summands containing higher powers (greater or equal than 2) of G.
 
-If you encouter bugs or have any questions, please send an e-mail to damian.iltgen@mathematik.uni-regensburg.de
+If you encouter bugs or have any questions, please send an e-mail to d.iltgen@bluewin.ch
