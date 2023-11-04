@@ -40,3 +40,7 @@ homca tries to simplify the Z[G]-complex as much as possible by performing eleme
 2. Option for printing direct summands containing higher powers (greater or equal than 2) of G.
 
 If you encouter bugs or have any questions, please send an e-mail to d.iltgen@bluewin.ch
+
+# Note
+
+While working on this program, the author Damian Iltgen was supported by the Emmy Noether Programme of the DFG, project number 412851057.
